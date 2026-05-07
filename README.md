@@ -160,7 +160,7 @@ function checkout() {
   msg += `%0ATotal: Rp ${total}`;
 
   window.location.href =
-  "https://wa.me/6281234567890?text=" + msg;
+  "https://wa.me/6289633311934?text=" + msg;
 }
 
 function kirim() {
